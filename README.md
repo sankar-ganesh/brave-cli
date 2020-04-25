@@ -19,7 +19,7 @@ $ npm install -g brave-cli
 $ brave-cli COMMAND
 running command...
 $ brave-cli (-v|--version|version)
-brave-cli/1.0.0 darwin-x64 node-v13.5.0
+brave-cli/0.0.1 darwin-x64 node-v13.5.0
 $ brave-cli --help [COMMAND]
 USAGE
   $ brave-cli COMMAND
@@ -77,5 +77,5 @@ DESCRIPTION
   }
 ```
 
-_See code: [src/commands/vjson.js](https://github.com/sankar-ganesh/brave-cli/blob/v1.0.0/src/commands/vjson.js)_
+_See code: [src/commands/vjson.js](https://github.com/sankar-ganesh/brave-cli/blob/v0.0.1/src/commands/vjson.js)_
 <!-- commandsstop -->

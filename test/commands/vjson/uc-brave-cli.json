@@ -1,0 +1,11 @@
+{
+    "json": {
+        "keys": {
+            "underscore": true,
+            "hyphen": true,
+            "uppercase": false,
+            "digits": true,
+            "lowercase": true
+        }
+    }
+}

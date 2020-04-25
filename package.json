@@ -1,7 +1,7 @@
 {
   "name": "brave-cli",
   "description": "Sort of junk validation rules that might come in handy one day",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": " @sankar-ganesh",
   "bin": {
     "brave-cli": "./bin/run"
